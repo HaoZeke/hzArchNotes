@@ -1,9 +1,14 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# HaoZeke's ArchLinux Notes
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+## What?
+A site to collect my random notes while I use ArchLinux.
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+## Why?
+Well I wanted to keep track of how my configurations change over time. However,
+my present sites are for more complete posts.
 
-## Running in development
-`gatsby develop`
+## Stack?
+The software stack for this site includes:
+
+- Gatsby (via the blog starter)
+- ox-hugo
